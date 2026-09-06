@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is CodeAlpha?",
+    "answer": "CodeAlpha is a software development company offering internships in emerging technologies like AI, web development, and data science."
+  },
+  {
+    "question": "How do I apply for an internship?",
+    "answer": "You can apply through the CodeAlpha website by filling out the internship application form."
+  },
+  {
+    "question": "Is the internship paid?",
+    "answer": "The CodeAlpha internship is unpaid, but it offers certificates, letters of recommendation, and job opportunities."
+  },
+  {
+    "question": "How many tasks do I need to complete?",
+    "answer": "You need to complete a minimum of two or three tasks from your selected domain to be eligible for a certificate."
+  },
+  {
+    "question": "Where do I submit my completed project?",
+    "answer": "You submit your completed task through the submission form shared in your WhatsApp group."
+  },
+  {
+    "question": "Do I need to post my project on LinkedIn?",
+    "answer": "Yes, you should share your internship status on LinkedIn tagging @CodeAlpha, and post a video explanation of each project with the GitHub repo link."
+  },
+  {
+    "question": "What happens if I only complete one task?",
+    "answer": "Completing only one task is considered incomplete, and a certificate will not be issued in that case."
+  },
+  {
+    "question": "How can I contact CodeAlpha?",
+    "answer": "You can reach CodeAlpha via WhatsApp at +91 9336576683 or by email at services@codealpha.tech."
+  },
+  {
+    "question": "What should I name my GitHub repository?",
+    "answer": "Name your repository CodeAlpha_ProjectName, replacing ProjectName with the name of your project."
+  },
+  {
+    "question": "Do I get a certificate?",
+    "answer": "Yes, upon successful completion of the required tasks you receive a QR-verified completion certificate and a unique ID certificate."
+  }
+]

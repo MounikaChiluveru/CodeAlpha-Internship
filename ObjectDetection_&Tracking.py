@@ -79,7 +79,7 @@ def main():
     writer = cv2.VideoWriter(args.output, fourcc, fps, (width, height))
     if not writer.isOpened():
         print(f"Error: could not open output video writer for '{args.output}'.")
-        sys.exit(1)
+        sys.exit(1)q
 
     print("Starting detection and tracking. Press 'q' in the preview window to quit.")
 
